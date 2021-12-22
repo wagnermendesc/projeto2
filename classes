@@ -1,0 +1,46 @@
+package obras;
+
+public class obra {
+	int tempo;
+	String nome;
+	String cidade;
+	
+}
+
+package obras;
+
+public class valor {
+	
+	float custo;
+
+}
+
+
+package obras;
+
+public class tipo {
+	String escola;
+	String creche;
+	String universidade;
+
+}
+
+package obras;
+
+public class status {
+	int meses;
+	String andamento;
+	String entrega;
+
+}
+
+package obras;
+
+public class obras_ceara {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
